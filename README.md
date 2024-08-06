@@ -1,5 +1,6 @@
 # Desafio Diagrama da DIO
 ## Diagrama da Classe
+```mermaid
 classDiagram
     Iphone <|-- Reprodutor_Musical
     Iphone <|-- Aparelho_Telefônico
@@ -24,3 +25,4 @@ classDiagram
       -fotografar()
       -filmar()
     }
+    ```
